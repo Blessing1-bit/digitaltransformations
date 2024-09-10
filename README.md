@@ -3,9 +3,21 @@
 
 <h2>1.Introduction</h2>
 
-Endra McVernan Global Services, a key player in the medical services industry, specializes in the production and supply of hospital equipment. Since its founding in 2005, the company has grown steadily, now employing over 800 people across several locations in Western Canada. Despite its success, the company has relied on the same operational software for over 15 years. As this legacy system reaches the end of its useful life, it has begun to significantly impact business processes negatively.
+Endra McVernan Global Services, a key player in the medical services industry that specializes in the production and supply of hospital equipment. Since its founding in 2005, the company has grown steadily, now employing over 800 people across several locations in Western Canada. Despite its success, the company has relied on the same operational software for over 15 years. As this legacy system reaches the end of its useful life, the company is faced with severe challenges that has negatively impacted its business operations.
 
 <h2>Problem Statement</h2> 
+●	Limited functionalities: The customer service team is unable to effectively manage customer's orders, 
+●	Poor Integration: The current system is unable to connect with other systems thereby leading to data inconsistency.
+●	Slow Performance: The sales team spends a significant amount of time generating reports reducing their performance and productivity. 
+●	Lack of Mobile Access: The on-site support field technicians are not able to access customer's critical information for effective installation.
+●	High Maintenance Cost: The asset sustenance department spends a significant amount maintaining the outdated system resulting in frequent crashes.
+
+BUSINESS IMPACT
+•	30% increase in order processing times
+•	13% decline in sales number
+•	28% inventory discrepancies and production delays
+•	< 75% CSAT score
+•	Employee stress: 16% - 75%
 
 <h2>Objectives</h2> 
 As a Business Analyst, your role is pivotal in the implementation of an online reservation system designed to achieve the following objectives:
