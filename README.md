@@ -2,7 +2,10 @@
 
 
 <h2>1.Introduction</h2>
-Azure Crest Hotel, a 3-star establishment, has relied on a manual process for room reservations involving physical visits or phone calls. This approach is time-consuming, unsecured, prone to errors, contributes to excessive paper usage, and complicates management. The business faces challenges in efficiently handling a high volume of reservations.
+
+Endra McVernan Global Services, a key player in the medical services industry, specializes in the production and supply of hospital equipment. Since its founding in 2005, the company has grown steadily, now employing over 800 people across several locations in Western Canada. Despite its success, the company has relied on the same operational software for over 15 years. As this legacy system reaches the end of its useful life, it has begun to significantly impact business processes negatively.
+
+<h2>Problem Statement</h2> 
 
 <h2>Objectives</h2> 
 As a Business Analyst, your role is pivotal in the implementation of an online reservation system designed to achieve the following objectives:
