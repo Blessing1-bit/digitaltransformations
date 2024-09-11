@@ -72,9 +72,12 @@ The future state process map was created to visualize the TO-BE state of the cus
 Based on the insruction for this project one functional requirement was created for each stakeholder group
 
 | ID           | Stakeholder           | Funtional Requirements |
-| :---         |     :---:             |          :---          |
+| :---         |     :---              |          :---          |
 | FR-01        | Customer Service Team | The customer service team should be<br> able to manage customers orders in the system   |
-| FR 02        | IT Department         | The system should be able to communicate<br> with other systems |
+| FR-02        | IT Department         | The system should be able to communicate<br> with other systems |
+| FR-03        | Sales Team            | Generate sales reports on the system |
+| FR-04        | On-site support field<br>technicians| Remote access to customers <br> order details on installing medical equipment on client site|
+| FR-05        | Asset Sustenance Department| Implement a modern software <br>(resistant to crashes and with little or no maintenance cost)|
 
 <h2>2.2 Conflicting Requirement</h2>
   
