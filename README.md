@@ -34,29 +34,29 @@ As a Business Analyst, your role is pivotal in the implementation of new system 
 <br />
 
 <h2>In-Scope</h2> 
-The development of the Automated Reservation System will perform a range of actions: 
+The development of a new integrated system will perform a range of actions: 
 
-- Registered and non-registered customers can search for available rooms, check room prices, and reserve a room for one hour using their email address.
-- Customers will receive confirmation of their reservations via email.
-- Customers have the option to cancel their reservations.
-- Customers can book rooms by making payments through the app.
-- The system allows free cancellations up to 48 hours before check-in otherwise penalty charge.
-- Customers can review their reservations and cancellations.
--  Front Staff should be able to handle check-ins and Check-out.
+- Workflow Automation: Automate the manual processes across sales and customer service departments to improve efficiency and reduce errors.
+- System Integration: Ensure seamless integration between the new system and other systems to eliminate data inconsistencies.
+- Mobile Access: Enable mobile access for On-Site Support teams to retrieve critical information remotely.
+- Employee Training and Data Migration: Train employees on the new system and migrating all relevant data from the legacy system to manage change effectively.
 
-<h2>Stakeholer Description</h2> 
+  <br />
 
-- Registered Customer:	Customer who already has an existing account/Profile
-- New Customer: 	This is a customer who does not have an account on the website
-- Front Desk:	This is a front-line staff of Azure Crest Hotel that attends to customers' enquires on the website.
-- Hotel Manager: 	Responsible for overseeing the daily operations of the hotel activities on the system
-- Tech Professionals: 	Web Developers, Business Analyst
-- Government Regulators:	Stakeholders responsible for compliance with set laws and regulations
+
+<h2>Stakeholer </h2> 
+
+- Customer Service
+- IT Department
+- Sales Team
+- On-site support field technicians
+- Asset Sustenance Department
+- Customer: Stakeholder that triggers the order process
 
 
 <h2>2. Project Tasks and Deliverables</h2>
 I performed the following tasks to ensure seamless project execution:
-Please find attached files for detailed descriptions of the artifacts developed in this project
+Please find attached files for detailed descriptions of the artifacts developed in the course of executing this project
 
 <h2>2.1 High Level Plan and Approach</h2>
 
