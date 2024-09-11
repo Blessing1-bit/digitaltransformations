@@ -12,7 +12,7 @@ Endra McVernan Global Services, a key player in the medical services industry th
 ●	Lack of Mobile Access: The on-site support field technicians are not able to access customer's critical information for effective installation.
 ●	High Maintenance Cost: The asset sustenance department spends a significant amount maintaining the outdated system resulting in frequent crashes.
 
-BUSINESS IMPACT
+<h2>Business Impact</h2>
 •	30% increase in order processing times
 •	13% decline in sales number
 •	28% inventory discrepancies and production delays
@@ -20,12 +20,13 @@ BUSINESS IMPACT
 •	Employee stress: 16% - 75%
 
 <h2>Objectives</h2> 
-As a Business Analyst, your role is pivotal in the implementation of an online reservation system designed to achieve the following objectives:
+As a Business Analyst, your role is pivotal in the implementation of new system to achieve the following objectives:
 
-- Develop an efficient online reservation system 
-- Eliminate paper-based reservation processes.
-- Prevent duplication of customer information.
-- Reduce reservation time.
+- Replace outdated operational software with a modern, integrated system.
+- Streamline business processes and automate manual workflows.
+- Improve system integration to reduce data inconsistencies and re-work.
+- Provide mobile access for On-Site Support teams to access critical information on-the-go.
+- Reduce maintenance costs and minimize system crashes.
 <br />
 
 <h2>In-Scope</h2> 
