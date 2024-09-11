@@ -62,6 +62,12 @@ The current state process map was created to baseline the organization's custome
 
 ![image](https://github.com/user-attachments/assets/56b9258d-94cc-4c6f-9250-2d3abc0c142f)
 
+<h2>2.2 Future State Process Map</h2>
+The future state process map was created to visualize the TO-BE state of the customer ordering process.
+
+![image](https://github.com/user-attachments/assets/45bc1f52-e696-4dec-8dda-b20c06a88ce9)
+
+
 
 
 
