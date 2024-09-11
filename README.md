@@ -1,5 +1,5 @@
 #a<h1>Poject: Endra McVernan Global Services: Adjusting to emerging business trends and demands</h1>
-
+This was my final presentation project for the IT Business Analysis (CPMN-014-009) course at SAIT (Southern Alberta Institute of Technology). Please find attached business case document for your review
 
 <h2>1.Introduction</h2>
 
