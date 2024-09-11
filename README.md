@@ -90,7 +90,7 @@ The conflicting requirements in the case study was that the deployment of a new 
 | Uers Story ID| Funtional<BR> Requirements ID| User Story Description |         
 | :---         |     :---              |          :---          |
 | US-01        | FR-01                 | As a Customer Service Rep,<br>I want to be able to process orders online,<br>so that I can reduce time wastage |
-| US-02        | FR-02                 | The system should be able to communicate<br> with other systems |
+| US-02        | FR-02                 | As an IT Analyst,<br>I want to be able to pull data from a single source,<br>so that I can be sure of the data quality |
 | US-03        | FR-03                 | Generate sales reports on the system |
 | US-04        | FR-04                 | Remote access to customers <br> order details on installing medical equipment on client site|
 | US-05        | FR-05                 | Implement a modern software <br>(resistant to crashes and with little or no maintenance cost)|
