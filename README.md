@@ -83,7 +83,18 @@ Based on the insruction for this project one functional requirement was created 
   
 The conflicting requirements in the case study was that the deployment of a new system violate the company policy that prohibibited replacement before current system end of life.
 
-- The initiation taken to resolve this was to update or modify the company policy to align with new realities and challenges of the organization. 
+- The initiation taken to resolve this was to update or modify the company policy to align with new realities and challenges of the organization.
+
+<h2>2.3 User Stories </h2>
+
+| Uers Story ID| Funtional<BR> Requirements ID| User Story Description |         
+| :---         |     :---              |          :---          |
+| US-01        | FR-01                 | As a Customer Service Rep,<br>I want to be able to process orders online,<br>so that I can reduce time wastage |
+| US-02        | FR-02                 | The system should be able to communicate<br> with other systems |
+| US-03        | FR-03                 | Generate sales reports on the system |
+| US-04        | FR-04                 | Remote access to customers <br> order details on installing medical equipment on client site|
+| US-05        | FR-05                 | Implement a modern software <br>(resistant to crashes and with little or no maintenance cost)|
+
 
 
 
