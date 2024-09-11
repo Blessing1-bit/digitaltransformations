@@ -6,6 +6,7 @@
 Endra McVernan Global Services, a key player in the medical services industry that specializes in the production and supply of hospital equipment. Since its founding in 2005, the company has grown steadily, now employing over 800 people across several locations in Western Canada. Despite its success, the company has relied on the same operational software for over 15 years. As this legacy system reaches the end of its useful life, the company is faced with severe challenges that has negatively impacted its business operations.
 
 <h2>Problem Statement</h2> 
+
 - Limited functionalities: The customer service team is unable to effectively manage customer's orders, 
 - Poor Integration: The current system is unable to connect with other systems thereby leading to data inconsistency.
 - Slow Performance: The sales team spends a significant amount of time generating reports reducing their performance and productivity. 
@@ -14,6 +15,7 @@ Endra McVernan Global Services, a key player in the medical services industry th
 <br />
 
 <h2>Business Impact</h2>
+
 - 30% increase in order processing times
 - b13% decline in sales number
 - 28% inventory discrepancies and production delays
