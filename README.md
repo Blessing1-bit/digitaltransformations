@@ -73,6 +73,13 @@ Besed on the insruction for this project one functional requirement was created 
 
 ![image](https://github.com/user-attachments/assets/c4e68d44-28a5-4a4f-812b-cebb629d2a22)
 
+<h2>2.2 Conflicting Requirement</h2>
+  
+The conflicting requirements in the case study was that the deployment of a new system violate the company policy that prohibibited replacement before current system end of life.
+
+- The initiation taken to resolve this was to update or modify the company policy to align with new realities and challenges of the organization. 
+
+
 
 
 
