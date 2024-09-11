@@ -67,6 +67,11 @@ The future state process map was created to visualize the TO-BE state of the cus
 
 ![image](https://github.com/user-attachments/assets/45bc1f52-e696-4dec-8dda-b20c06a88ce9)
 
+<h2>2.2 Functional Requirement Document</h2>
+Besed on the insruction for this project one functional requirement was created for each stakeholder group
+![image](https://github.com/user-attachments/assets/c4e68d44-28a5-4a4f-812b-cebb629d2a22)
+
+
 
 
 
