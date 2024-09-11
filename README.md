@@ -69,9 +69,12 @@ The future state process map was created to visualize the TO-BE state of the cus
 
 <h2>2.2 Functional Requirement Document</h2>
 
-Besed on the insruction for this project one functional requirement was created for each stakeholder group
+Based on the insruction for this project one functional requirement was created for each stakeholder group
 
-![image](https://github.com/user-attachments/assets/c4e68d44-28a5-4a4f-812b-cebb629d2a22)
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 <h2>2.2 Conflicting Requirement</h2>
   
