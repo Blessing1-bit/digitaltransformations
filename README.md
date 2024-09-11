@@ -74,7 +74,7 @@ Based on the insruction for this project one functional requirement was created 
 | ID           | Stakeholder           | Funtional Requirements |
 | :---         |     :---:             |          :---          |
 | FR-01        | Customer Service Team | The customer service team should be<br> able to manage customers orders in the system   |
-| git diff     | git diff              | git diff               |
+| FR 02        | IT Department         | The system should be able to communicate<br> with other systems |
 
 <h2>2.2 Conflicting Requirement</h2>
   
