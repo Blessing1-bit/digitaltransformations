@@ -71,10 +71,10 @@ The future state process map was created to visualize the TO-BE state of the cus
 
 Based on the insruction for this project one functional requirement was created for each stakeholder group
 
-| ID           | Stakeholder    | Funtional Requirements |
-| :---         |     :---:      |          ---:          |
-| git status   | git status     | git status             |
-| git diff     | git diff       | git diff               |
+| ID           | Stakeholder           | Funtional Requirements |
+| :---         |     :---:             |          :---          |
+| FR-01        | Customer Service Team | The customer service team should be<br> able to manage customers orders in the system   |
+| git diff     | git diff              | git diff               |
 
 <h2>2.2 Conflicting Requirement</h2>
   
