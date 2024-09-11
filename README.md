@@ -60,7 +60,8 @@ Please find attached files for detailed descriptions of the artifacts developed 
 
 The current state process map was created to baseline the organization's customer service process
 
-<img width="317" alt="image" src="https://github.com/user-attachments/assets/78dfa30e-c8a6-4b16-9b01-b5b00adcde80">
+![image](https://github.com/user-attachments/assets/56b9258d-94cc-4c6f-9250-2d3abc0c142f)
+
 
 
 
