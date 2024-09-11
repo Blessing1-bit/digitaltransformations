@@ -40,9 +40,7 @@ The development of a new integrated system will perform a range of actions:
 - System Integration: Ensure seamless integration between the new system and other systems to eliminate data inconsistencies.
 - Mobile Access: Enable mobile access for On-Site Support teams to retrieve critical information remotely.
 - Employee Training and Data Migration: Train employees on the new system and migrating all relevant data from the legacy system to manage change effectively.
-
   <br />
-
 
 <h2>Stakeholer </h2> 
 
@@ -52,15 +50,15 @@ The development of a new integrated system will perform a range of actions:
 - On-site support field technicians
 - Asset Sustenance Department
 - Customer: Stakeholder that triggers the order process
-
+   <br />
 
 <h2>2. Project Tasks and Deliverables</h2>
-I performed the following tasks to ensure seamless project execution:
+As a Business Analyst, the following deliverables were created to ensure seamless project execution:
 Please find attached files for detailed descriptions of the artifacts developed in the course of executing this project
 
-<h2>2.1 High Level Plan and Approach</h2>
+<h2>2.1 Current State Process Map</h2>
 
-I developed a high level project management plan to define the business objectives/Scope,  timelines, and deliverables after elicitation of business requirement.
+The current state process map was created to baseline the organization's customer service process
 
 ![image](https://github.com/user-attachments/assets/982aabad-ca7a-4763-aeaf-02eedd58d162)
 
