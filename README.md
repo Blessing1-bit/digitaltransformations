@@ -89,11 +89,11 @@ The conflicting requirements in the case study was that the deployment of a new 
 
 | Uers Story ID| Funtional<BR> Requirements ID| User Story Description |         
 | :---         |     :---              |          :---          |
-| US-01        | FR-01                 | As a Customer Service Rep,<br>I want to be able to process orders online,<br>so that I can reduce time wastage |
-| US-02        | FR-02                 | As an IT Analyst,<br>I want to be able to pull data from a single source,<br>so that I can be sure of the data quality |
-| US-03        | FR-03                 | Generate sales reports on the system |
-| US-04        | FR-04                 | Remote access to customers <br> order details on installing medical equipment on client site|
-| US-05        | FR-05                 | Implement a modern software <br>(resistant to crashes and with little or no maintenance cost)|
+| US-01        | FR-01                 | As a Customer Service Rep,<br>I want to be able to process orders online,<br>so that I can reduce time wastage.|
+| US-02        | FR-02                 | As an IT Analyst,<br>I want to be able to pull data from a single source,<br>so that I can be sure of the data quality.|
+| US-03        | FR-03                 | As a sales rep,<b> I want to generate sales reports,<b>  so I can forecast more accurately and be more productive.|
+| US-04        | FR-04                 | As an On-Site rep,<b> I want to remote access to client order details on the field,<br> so I can complete installations on client site.|
+| US-05        | FR-05                 | As an asset sustenance rep,<br>I want a stable system,<br>so I can reduce crashes and maintenance costs.|
 
 
 
