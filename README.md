@@ -7,11 +7,11 @@ Endra McVernan Global Services, a key player in the medical services industry th
 
 <h2>Problem Statement</h2> 
 
-- Limited functionalities: The customer service team is unable to effectively manage customer's orders, 
-- Poor Integration: The current system is unable to connect with other systems thereby leading to data inconsistency.
-- Slow Performance: The sales team spends a significant amount of time generating reports reducing their performance and productivity. 
-- Lack of Mobile Access: The on-site support field technicians are not able to access customer's critical information for effective installation.
-- High Maintenance Cost: The asset sustenance department spends a significant amount maintaining the outdated system resulting in frequent crashes.
+- **Limited functionalities**: The customer service team is unable to effectively manage customer's orders, 
+- **Poor Integration**: The current system is unable to connect with other systems thereby leading to data inconsistency.
+- **Slow Performance**: The sales team spends a significant amount of time generating reports reducing their performance and productivity. 
+- **Lack of Mobile Access**: The on-site support field technicians are not able to access customer's critical information for effective installation.
+- **High Maintenance Cost**: The asset sustenance department spends a significant amount maintaining the outdated system resulting in frequent crashes.
 <br />
 
 <h2>Business Impact</h2>
@@ -36,10 +36,10 @@ As a Business Analyst, your role is pivotal in the implementation of new system 
 <h2>In-Scope</h2> 
 The development of a new integrated system will perform a range of actions: 
 
-- Workflow Automation: Automate the manual processes across sales and customer service departments to improve efficiency and reduce errors.
-- System Integration: Ensure seamless integration between the new system and other systems to eliminate data inconsistencies.
-- Mobile Access: Enable mobile access for On-Site Support teams to retrieve critical information remotely.
-- Employee Training and Data Migration: Train employees on the new system and migrating all relevant data from the legacy system to manage change effectively.
+- **Workflow Automation**: Automate the manual processes across sales and customer service departments to improve efficiency and reduce errors.
+- **System Integration**: Ensure seamless integration between the new system and other systems to eliminate data inconsistencies.
+- **Mobile Access**: Enable mobile access for On-Site Support teams to retrieve critical information remotely.
+- **Employee Training and Data Migration**: Train employees on the new system and migrating all relevant data from the legacy system to manage change effectively.
   <br />
 
 <h2>Stakeholer </h2> 
