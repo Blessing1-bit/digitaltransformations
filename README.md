@@ -97,8 +97,14 @@ The functional specifications were translated into user stories and acceptance c
 | US-04        | FR-04                 | As an on-site rep,<b> I want remote access on field,<b> so that I can access client information to complete installations.|  remote access is provided via a secure link,<br> client information is visible via remote access link |
 | US-05        | FR-05                 | As an asset sustenance rep,<br>I want a stable system,<br>so I can reduce crashes and maintenance costs.| System maintains at least 90% uptime,<br> system can handle peak loads without crashing |
 
+<h2>2.4 Solution Options</h2>
 
-
+- ****Outsourcing**:** For certain functions that the legacy system struggles with, the company could consider outsourcing to specialized service providers 
+with more advanced technological capabilities.
+- **Process optimization:** The company could focus on streamlining and optimizing their business processes to improve efficiency, even within the 
+constraints of their current system
+- **New Software Implementation:** A company wide implementation of a new technology tool that can help the different departments become more 
+productive and efficient (after the existing policy has been modified or cancelled)
 
 
 
