@@ -91,7 +91,7 @@ The functional specifications were translated into user stories and acceptance c
 
 | Uers Story ID| Funtional<BR> Requirements ID| User Story Description | Acceptance Criteria        
 | :---         |     :---              |          :---          |  :---      |
-| US-01        | FR-01                 | As a Customer Service Rep,<br>I want to be able to process orders online,<br>so that I can reduce time wastage.|
+| US-01        | FR-01                 | As a Customer Service Rep,<br>I want to be able to process orders online,<br>so that I can reduce time wastage.| online interface is accessible via a secure link,<br> online interface allows processing of orders in real-time |
 | US-02        | FR-02                 | As an IT Analyst,<br>I want to be able to pull data from a single source,<br>so that I can be sure of the data quality.|
 | US-03        | FR-03                 | As a sales rep,<b> I want to generate sales reports,<b>  so I can forecast more accurately and be more productive.|
 | US-04        | FR-04                 | As an on-site rep,<b> I want remote access on field,<b> so that I can access client information to complete installations.|
