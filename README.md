@@ -144,7 +144,7 @@ The deployed solution was evaluated based on this criteria
 2.  Shadowing
 3.  Surveys & Questionnaire
 
-<h2>2.9 Lesson Learnt and Conclusion</h2>
+<h2>2.10 Lesson Learnt and Conclusion</h2>
 
 
 
