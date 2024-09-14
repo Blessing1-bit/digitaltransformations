@@ -128,7 +128,7 @@ This is one of the test case that was developed to test the online order process
 - **Communication** – All stakeholders were engaged early in the project and all through development and implementation phase.
 - **Procedure documents, manuals, SOPs, work instructions** – Reference materials was provided to reinforce the training & knowledge of the system.
 
-<h2>2.8 Solution Evaluation</h2>
+<h2>2.9 Solution Evaluation</h2>
 
 The deployed solution was evaluated based on this criteria
 1. **Online orders:** The Customer Service can take online orders and send customer notifications.
@@ -141,7 +141,8 @@ The deployed solution was evaluated based on this criteria
 1. Interviews
 2.  Shadowing
 3.  Surveys & Questionnaire
-  
+
+<h2>2.9 Lesson Learnt and Conclusion</h2>
 
 
 
