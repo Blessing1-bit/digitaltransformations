@@ -119,8 +119,29 @@ However, implementing a new modern integrated software solution was considered a
 -  **Test Steps:** 1. Login to the online order processing system as a Customer Service rep<br> 2.  Navigate to the "New Order" section<br> 3. Enter or select the customer information (e.g., name, contact details, shipping address)<br> 4.  Search for and select one or more products as required<br> 5. Enter the quantity for one or more products as required<br> 6. Add the products to the order<br> 7. Review the order summary, including products, quantities, and total price<br> 8. Select a shipping or delivery method<br> 9. Process the payment (using a test payment method)<br> 10. Submit the order (note the time taken to complete the entire process)<br> 11. Verify that an order confirmation is generated<br> 12. Check that the order appears in the "Recent Orders" list<br> 13. Logout of the system| customer information (e.g., name, contact details, shipping address).
 -  **Expected Result:**
 -  **Actual Result:**
+
+<h2>2.8 Change Management</h2>
+
+- **User Acceptance Testing** – During the UAT, I ensured that all identified stakeholders participated in testing the functionalities of the solution and it was successfully accepted with a 100% pass rate for test cases.
+- **Training** - Training and Workshops was conducted before deployment to ensure maximum adoption of the new system by all stakeholders.
+- **Communication** – All stakeholders were engaged early in the project and all through development and implementation phase.
+- **Procedure documents, manuals, SOPs, work instructions** – Reference materials was provided to reinforce the training & knowledge of the system.
+
+<h2>2.8 Solution Evaluation</h2>
+
+The deployed solution was evaluated based on this criteria
+1. **Online orders:** The Customer Service can take online orders and send customer notifications.
+2. **System scalability:** The New system is scalable and has potential to sync with other systems.
+3. **Sales reporting:** Sales can pull and customize reports quickly.
+4. **Field access:** On-Site support have mobile access
+5. **Less frequent crashes:** Asset Sustenance are seeing some or total reduction in maintenance cost and little or no crashes
+   
+**Techniques** These techniques were employed to evaluate that the solution was working.
+1. Interviews
+2.  Shadowing
+3.  Surveys & Questionnaire
   
-  
+
 
 
 
