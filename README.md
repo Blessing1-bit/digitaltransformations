@@ -67,7 +67,7 @@ The future state process map was created to visualize the TO-BE state of the cus
 
 ![image](https://github.com/user-attachments/assets/45bc1f52-e696-4dec-8dda-b20c06a88ce9)
 
-<h2>2.2 Functional Requirement Document</h2>
+<h2>2.3 Functional Requirement Document</h2>
 
 Based on the insruction for this project one functional requirement was created for each stakeholder group
 
@@ -79,13 +79,13 @@ Based on the insruction for this project one functional requirement was created 
 | FR-04        | On-site support field<br>technicians| Remote access to customers <br> order details on installing medical equipment on client site|
 | FR-05        | Asset Sustenance Department| Implement a modern software <br>(resistant to crashes and with little or no maintenance cost)|
 
-<h2>2.2 Conflicting Requirement</h2>
+<h2>2.4 Conflicting Requirement</h2>
   
 The conflicting requirements in the case study was that the deployment of a new system violate the company policy that prohibibited replacement before current system end of life.
 
 - The initiation taken to resolve this was to update or modify the company policy to align with new realities and challenges of the organization.
 
-<h2>2.3 User Stories </h2>
+<h2>2.5 User Stories </h2>
 
 The functional specifications were translated into user stories and acceptance criteria to capture the stakeholder requirements from their perspective.
 
@@ -97,7 +97,7 @@ The functional specifications were translated into user stories and acceptance c
 | US-04        | FR-04                 | As an on-site rep,<b> I want remote access on field,<b> so that I can access client information to complete installations.|  remote access is provided via a secure link,<br> client information is visible via remote access link |
 | US-05        | FR-05                 | As an asset sustenance rep,<br>I want a stable system,<br>so I can reduce crashes and maintenance costs.| System maintains at least 90% uptime,<br> system can handle peak loads without crashing |
 
-<h2>2.4 Solution Options</h2>
+<h2>2.6 Solution Options</h2>
 
 - ****Outsourcing**:** For certain functions that the legacy system struggles with, the company could consider outsourcing to specialized service providers 
 with more advanced technological capabilities.
@@ -105,6 +105,8 @@ with more advanced technological capabilities.
 constraints of their current system
 - **New Software Implementation:** A company wide implementation of a new technology tool that can help the different departments become more 
 productive and efficient (after the existing policy has been modified or cancelled)
+
+However, implementing a new modern integrated software solution was considered a more suitable option because it provides access to real time consistent data accross the systema, it has mobile compatilbility, as well as low cost of maintenance which solves Mc vernan currrent challenges.
 
 
 
