@@ -117,12 +117,14 @@ This is one of the test case that was developed to test the online order process
 - **Test Scenario:** Test that the Customer Service Rep is able to process order online
 - **Test Case:**  Test that I am logged in with a valid url as a customer service rep on the online order processing, I am able to process customer order.
 -  **Pre-Conditions:**  1. The customer service rep is logged into the online order processsing.<br> 2. The system is up and running
--  **Test Steps:** 1. Login to the online order processing system as a Customer Service rep<br> 2.  Navigate to the "New Order" section<br> 3. Enter or select the customer information (e.g., name, contact details, shipping address)<br> 4.  Search for and select one or more products as required<br> 5. Enter the quantity for one or more products as required<br> 6. Add the products to the order<br> 7. Review the order summary, including products, quantities, and total price<br> 8. Select a shipping or delivery method<br> 9. Process the payment (using a test payment method)<br> 10. Submit the order (note the time taken to complete the entire process)<br> 11. Verify that an order confirmation is generated<br> 12. Check that the order appears in the "Recent Orders" list<br> 13. Logout of the system| customer information (e.g., name, contact details, shipping address).
--  **Expected Result:**
--  **Actual Result:**
+-  **Test Steps:** 1. Login to the online order processing system as a Customer Service rep<br> 2.  Navigate to the "New Order" section<br> 3. Enter or select the customer information (e.g., name, contact details, shipping address)<br> 4.  Search for and select one or more products as required<br> 5. Enter the quantity for one or more products as required<br> 6. Add the products to the order<br> 7. Review the order summary, including products, quantities, and total price<br> 8. Select a shipping or delivery method<br> 9. Process the payment (using a test payment method)<br> 10. Submit the order (note the time taken to complete the entire process)<br> 11. Verify that an order confirmation is generated<br> 12. Check that the order appears in the "Recent Orders" list<br> 13. Logout of the system.
+-  **Test Data:** Customer information (e.g., name, contact details, shipping address).
+-  **Expected Result:** The Customer service representative is able to process order and order processed order appears in the "Recent Orders"
+-  **Actual Result:** Pass
 
 <h2>2.8 Change Management</h2>
 
+The following change management activities were conducted to ensure seamless integration and usage of the new solution.
 - **User Acceptance Testing** – During the UAT, I ensured that all identified stakeholders participated in testing the functionalities of the solution and it was successfully accepted with a 100% pass rate for test cases.
 - **Training** - Training and Workshops was conducted before deployment to ensure maximum adoption of the new system by all stakeholders.
 - **Communication** – All stakeholders were engaged early in the project and all through development and implementation phase.
