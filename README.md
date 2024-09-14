@@ -108,6 +108,18 @@ productive and efficient (after the existing policy has been modified or cancell
 
 However, implementing a new modern integrated software solution was considered a more suitable option because it provides access to real time consistent data accross the systema, it has mobile compatilbility, as well as low cost of maintenance which solves Mc vernan currrent challenges.
 
+<h2>2.7 Test Plan</h2>
+
+| Test ID      | Module                | User Story ID          | Test Scenario  | Test Case   | Pre-Conditions| Test Steps  | Test Data     | Expected Result | Actual Result |
+| :---         |     :---              |          :---          |    :---        |    :---     |    :---       |    :---      |   :---       |    :---         |    :---        |
+| FR-01        | Customer Service Team | The customer service team should be<br> able to manage customers orders in the system   |
+| FR-02        | IT Department         | The system should be able to communicate<br> with other systems |
+| FR-03        | Sales Team            | Generate sales reports on the system |
+| FR-04        | On-site support field<br>technicians| Remote access to customers <br> order details on installing medical equipment on client site|
+| FR-05        | Asset Sustenance Department| Implement a modern software <br>(resistant to crashes and with little or no maintenance cost)|
+
+
+
 
 
 
