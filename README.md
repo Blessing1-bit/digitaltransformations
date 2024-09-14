@@ -136,7 +136,7 @@ The deployed solution was evaluated based on this criteria
 4. **Field access:** On-Site support have mobile access
 5. **Less frequent crashes:** Asset Sustenance are seeing some or total reduction in maintenance cost and little or no crashes
    
-**Techniques** These techniques were employed to evaluate that the solution was working.
+**Techniques:** These techniques were employed to evaluate that the solution was working.
 1. Interviews
 2.  Shadowing
 3.  Surveys & Questionnaire
