@@ -3,7 +3,7 @@ This was my final presentation project for the IT Business Analysis (CPMN-014-00
 
 <h2>1.Introduction</h2>
 
-Endra McVernan Global Services, a key player in the medical services industry that specializes in the production and supply of hospital equipment. Since its founding in 2005, the company has grown steadily, now employing over 800 people across several locations in Western Canada. Despite its success, the company has relied on the same operational software for over 15 years. As this legacy system reaches the end of its useful life, the company is faced with severe challenges that has negatively impacted its business operations.
+Endra McVernan Global Services is a key player in the medical services industry that specializes in the production and supply of hospital equipment. Since its founding in 2005, the company has grown steadily, now employing over 800 people across several locations in Western Canada. Despite its success, the company has relied on the same operational software for over 15 years. As this legacy system reaches the end of its useful life, the company is faced with severe challenges that has negatively impacted its business operations.
 
 <h2>Problem Statement</h2> 
 
@@ -34,7 +34,7 @@ As a Business Analyst, your role is pivotal in the implementation of new system 
 <br />
 
 <h2>In-Scope</h2> 
-The development of a new integrated system will perform a range of actions: 
+The development of a modern integrated system will perform a range of actions: 
 
 - **Workflow Automation**: Automate the manual processes across sales and customer service departments to improve efficiency and reduce errors.
 - **System Integration**: Ensure seamless integration between the new system and other systems to eliminate data inconsistencies.
@@ -49,7 +49,7 @@ The development of a new integrated system will perform a range of actions:
 - Sales Team
 - On-site support field technicians
 - Asset Sustenance Department
-- Customer: Stakeholder that triggers the order process
+- Customers
    <br />
 
 <h2>2. Project Tasks and Deliverables</h2>
@@ -83,7 +83,7 @@ Based on the insruction for this project one functional requirement was created 
   
 The conflicting requirements in the case study was that the deployment of a new system violate the company policy that prohibibited replacement before current system end of life.
 
-- The initiation taken to resolve this was to update or modify the company policy to align with new realities and challenges of the organization.
+- However, updating or modifying the company policy to align with new realities and challenges of the organization was the approach taken to resolve this conflict.
 
 <h2>2.5 User Stories </h2>
 
@@ -103,19 +103,20 @@ The functional specifications were translated into user stories and acceptance c
 with more advanced technological capabilities.
 - **Process optimization:** The company could focus on streamlining and optimizing their business processes to improve efficiency, even within the 
 constraints of their current system
-- **New Software Implementation:** A company wide implementation of a new technology tool that can help the different departments become more 
+- **New Software Implementation:** A company wide implementation of a new technology software can help the different departments become more 
 productive and efficient (after the existing policy has been modified or cancelled)
 
-However, implementing a new modern integrated software solution was considered a more suitable option because it provides access to real time consistent data accross the systema, it has mobile compatilbility, as well as low cost of maintenance which solves Mc vernan currrent challenges.
+However, implementing a new modern integrated software solution was considered a more suitable option because it provides access to real time consistent data accross the systema, it also has mobile compatilbility as well as low cost of maintenance which solves Mc vernan currrent challenges.
 
 <h2>2.7 Test Plan</h2>
 
+This is one of the test case that was developed to test the online order processing by the customer service representative.
 - **Test ID:** TC-01
 - **Module:** Online Order Processing by Customer Service Rep
 - **User Story ID:** US-O1
 - **Test Scenario:** Test that the Customer Service Rep is able to process order online
-- **Test Case:**  Test that I am logged in with a valid url as a customer service rep in the online order processing when I
--  **Pre-Conditions:**  1. The customer service rep is logged into the online order processsing.<br>                    2. The system is up and running
+- **Test Case:**  Test that I am logged in with a valid url as a customer service rep on the online order processing, I am able to process customer order.
+-  **Pre-Conditions:**  1. The customer service rep is logged into the online order processsing.<br> 2. The system is up and running
 -  **Test Steps:** 1. Login to the online order processing system as a Customer Service rep<br> 2.  Navigate to the "New Order" section<br> 3. Enter or select the customer information (e.g., name, contact details, shipping address)<br> 4.  Search for and select one or more products as required<br> 5. Enter the quantity for one or more products as required<br> 6. Add the products to the order<br> 7. Review the order summary, including products, quantities, and total price<br> 8. Select a shipping or delivery method<br> 9. Process the payment (using a test payment method)<br> 10. Submit the order (note the time taken to complete the entire process)<br> 11. Verify that an order confirmation is generated<br> 12. Check that the order appears in the "Recent Orders" list<br> 13. Logout of the system| customer information (e.g., name, contact details, shipping address).
 -  **Expected Result:**
 -  **Actual Result:**
